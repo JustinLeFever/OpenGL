@@ -6,4 +6,5 @@ int main()
 	std::cin.get();
 
 	int h = 0;
+	int b = 1;
 }
